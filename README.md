@@ -40,7 +40,7 @@ sudo python sniffer.py
 python sniffer.py
 ```
 
-## 📊 Sample Output
+## 📊 Usage Demonstration
 ```text
 [+] Packet Captured: TCP | Source: 192.168.1.5 -> Dest: 93.184.216.34
 [!] ALERT: Unencrypted HTTP traffic detected on Port 80.
