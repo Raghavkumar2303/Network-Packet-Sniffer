@@ -54,3 +54,6 @@ python sniffer.py
 ## 📝 Future Roadmap
 - Integrate an **AI-driven Threat Detection model** to classify advanced network anomalies using the `NSL-KDD` dataset.
 - Develop a lightweight web dashboard using `Streamlit` for visual real-time traffic mapping.
+
+⚖️ License
+Distributed under the MIT License. See LICENSE for more information  
